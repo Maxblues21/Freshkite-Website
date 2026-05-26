@@ -1,0 +1,74 @@
+{
+  "hero": {
+    "headline": "We run the ops, you run the vision.",
+    "subheadline": "A Mauritius-based backbone, delivering seamless support & operational intelligence. We power the growth, you take the credit.",
+    "ctaLabel": "Start a project"
+  },
+  "capabilities": {
+    "eyebrow": "01 — Capabilities",
+    "heading": "Every capability your business needs, under one roof.",
+    "subtext": "Pick one. Pick all. Our teams work as an extension of yours — no seat-counts, no rigid scopes.",
+    "cards": [
+      { "title": "E-commerce",        "tagline": "Storefronts built to convert.",       "accent": "#1565E0", "aR": "21,101,224" },
+      { "title": "Data Ops",           "tagline": "Decisions driven by real data.",      "accent": "#00C4A0", "aR": "0,196,160" },
+      { "title": "Project Management", "tagline": "Delivered on time, every time.",      "accent": "#1A2D5E", "aR": "26,45,94" },
+      { "title": "Tech Support",       "tagline": "Always on, so you never go down.",    "accent": "#00C4A0", "aR": "0,196,160" },
+      { "title": "Content Authoring",  "tagline": "Words and visuals that move people.", "accent": "#1565E0", "aR": "21,101,224" },
+      { "title": "Web3 Ready",         "tagline": "Blockchain-native ops, no friction.", "accent": "#00C4A0", "aR": "0,196,160" }
+    ]
+  },
+  "language": {
+    "heading": "We work in your language. Both of them.",
+    "body": "Our team operates fluently in English and French, ensuring nothing gets lost in translation — from discovery calls to final delivery.",
+    "enPhrase": "Delivering results that drive real growth",
+    "frPhrase": "Des résultats qui propulsent la croissance",
+    "timezonePoints": [
+      "Overlap with European mornings and US afternoons",
+      "Work progresses while you sleep",
+      "Real-time collaboration when it matters",
+      "Faster turnaround, longer effective working day"
+    ]
+  },
+  "partners": {
+    "heading": "Who we partner with.",
+    "logos": [
+      { "name": "Freshop",   "src": "/assets/partner-freshop.png" },
+      { "name": "NCR Voyix", "src": "/assets/partner-ncr-voyix.png" },
+      { "name": "Forage",    "src": "/assets/partner-forage.png" }
+    ]
+  },
+  "whyUs": {
+    "heading": "The difference, quietly felt.",
+    "items": [
+      { "big": "No handoffs",               "sub": "Your operators and ours move as one team — same Slack, same rituals, same urgency." },
+      { "big": "Long-term by default",      "sub": "Average engagement runs 2+ years. We learn your business so you don't repeat yourself." },
+      { "big": "Priced for leverage",       "sub": "Flat monthly pricing. Scale capacity without scaling headcount, vendors, or contracts." },
+      { "big": "Built on islands, not silos", "sub": "Mauritius time, European rhythm, global fluency — a calm place to run serious ops." }
+    ]
+  },
+  "team": {
+    "heading": "A team of operators, not contractors.",
+    "people": [
+      { "name": "Aanya Ramgoolam",  "role": "Head of Ops",     "loc": "Port Louis",       "color": "#1565E0" },
+      { "name": "Hugo Béranger",    "role": "Data Lead",        "loc": "Curepipe · Paris", "color": "#00C4A0" },
+      { "name": "Kiran Soobroydoo", "role": "Project Director", "loc": "Mahébourg",        "color": "#00C4A0" },
+      { "name": "Louise Cadet",     "role": "Client Partner",   "loc": "Lyon · MU",        "color": "#1565E0" }
+    ]
+  },
+  "cta": {
+    "heading": "Your ops, quietly working - while you take the stage.",
+    "body": "Tell us what you're building. We'll tell you how we'd run the ops behind it. No commitment, no pitch deck — just a conversation.",
+    "buttonLabel": "Start a project"
+  },
+  "footer": {
+    "tagline": "Operational backbone for modern teams. Built in Mauritius, trusted worldwide.",
+    "copyright": "© 2026 Freshkite Ltd. Registered in Quatre Bornes, Mauritius."
+  },
+  "contact": {
+    "heading": "Let's start something.",
+    "subheading": "No commitment, no pitch deck — just a conversation about what you're building and how we can run the ops behind it.",
+    "whatsapp": "+230 598 96 888",
+    "emailBd": "freshkite-business-development@freshkite.io",
+    "emailDirect": "arshad@freshkite.io"
+  }
+}
